@@ -2,15 +2,15 @@
 - 👀 I’m interested in ...<h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant915&label=Profile%20views&color=0e75b6&style=flat" alt="jayant915" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant915&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu2op" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayant915" alt="jayant915" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu2op" alt="Priyanshu2op" /></a> </p>
 
 - 🌱 I’m currently learning **Data science and machine Learning**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
-- 📫 How to reach me **jayantkishore9155@gmail.com**
+- 📫 How to reach me **priyanshurnc8863@gmail.com**
 
 - ⚡ Fun fact **I play chess**
 
